@@ -14,8 +14,9 @@ Instrumentation/Analysis techniques
 ------------------------------------
     - What exactly is symbolic execution ? vs concrete vs concolic execution
     - Set up Angr and play around with symbolic execution examples to have a better grasp on the concept.
-    - How exactly ASAN is implemented (think Shadow memory technique)
-    - Difference between ASAN, UBSAN, MSAN LLVM sanitizers.
+    - Same around Pin framework pertaining binary code instrumentation
+    - How exactly ASAN/Valgrind is implemented (think Shadow memory technique)
+    - Difference between ASAN, UBSAN, MSAN LLVM sanitizers and Valgrind/Memcheck. Practice around memory errors detection in programs using these tools
 
 Fuzzing
 ---------
