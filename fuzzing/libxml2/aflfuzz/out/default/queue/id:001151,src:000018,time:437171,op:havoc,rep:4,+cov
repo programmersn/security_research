@@ -1,0 +1,19 @@
+<Oxml version="1.0" encoding="ISO-885🍦🍦🍦🍦🍦�
+
+<s9-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>🍦🍦🍦🍦🍦�
+
+<somebeacon someattribute="&b;"/>
+
+&a; should appear after colon: &a;
+&b; should appear after colon: OCTYPE  somedoc [
+  <!ENTI&a;
+&a; should appear after colon: &b;
+&b; should appear after colon: &b;
+
+</somedoc>

@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmlns:tstt (0|1)   "1">
+]>
+<d//example.org"
+     tst:a‚t (0|1)   "1">
+]>
+<doc att="1"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  ::::J::::::::somedoc [
+  <!ENTITU a   "something">
+  <!ENTITYb   "&a;">]>
+
+<somedoc>ü	<somebeacon someattribute="&b;"/>
+eeeeeeeeeeeeeeeeer aLter c€lon: &a;
+&b; should appeè after colon:3&a;
+&r$colon: &b;
+&b; should	appear after coaon: &b;
+
+</so"/>
+
+&a

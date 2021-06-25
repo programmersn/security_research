@@ -1,0 +1,15 @@
+<ng>---59-1"?>
+<!- ••••n859-1"?>
+<!-- test of ‹onasMii<0xml version="1.0" encodiŠg=&USO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!E7ITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut&&&&&&&&&&&&&&&&&&&7&&&>
+<!-- test of ‹onasM_i&e="&b;"/>
+
+&a; should appejr<afte[ colonO*&a;
+&b; should appear after colon: &a;èa; should appear after c

@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defMtst:att (0|0)   "st CD9TA #/example.org"
+     tst:att (0|0)   "1">
+]><?xml versiol="1.0" encoding=?>
+<article xmfoop:contenlns="tag:foofoofog:foofoofoofoofoofoofoofoo"
+  xmlns:dc="htt€://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/ter

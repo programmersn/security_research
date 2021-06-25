@@ -1,0 +1,14 @@
+<ng>---59-1"?>
+<!- ••••n$59-1"[>
+$!-- test of ‹on asMii<?xml versionH"1.0" enct of ‹ÿÿsMii<?xml versiodiŠg="ear after codon: &a;
+ b; shoulISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a < something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut&&&&ould appear after col‘n: &a"Y a < something"pear after codon: &a;
+ b; should appear after col‘n: &a;
+&a; should appear after c

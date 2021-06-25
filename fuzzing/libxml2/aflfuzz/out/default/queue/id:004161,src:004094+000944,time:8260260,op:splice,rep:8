@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding=<?xml versio.="1.0" encod–ng="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITYBa   "somethilg">
+  <!ENTITY b   "&aa; shoafte‘ colon: &a;
+;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&<ÿOCTYPE  somedoc [
+  <!a; shoafte‘ colon: &a;
+&b; should appear after colon: &a;
+&a; should "" "pear afolonear 

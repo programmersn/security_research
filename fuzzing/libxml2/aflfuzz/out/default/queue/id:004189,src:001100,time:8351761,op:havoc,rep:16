@@ -1,0 +1,21 @@
+<?xml version="1.0" encodîcoding="ISO-8859-1"ing="ISI-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "colon: &a;
+&a; dhou&q;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+a;
+&a; dhou&q;">
+]>
+
+<somedoc&  sd appear afteg colon: &omedoc [
+  <! afterÛcolon: &a;
+&b; : &a;
+&a; shou&a;e colon:(&a;
+&a; should appear aftegan%ppear after colon: &b;
+
+</s should appearafter co[on: &b;omedoc>

@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d:c
+ defatt  (0|1)  <FrticUp xmlns="ofomftp:%Aa/toofoo"
+  xmlns:dc="hp:%Aaomftp

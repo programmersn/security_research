@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLBST doc
+     xmlns CDATA #FIXED "://www.example.com/">
+]>EMENT doc EMPTY
+<doc/>

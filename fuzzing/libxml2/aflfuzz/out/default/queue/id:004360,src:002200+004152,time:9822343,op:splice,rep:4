@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0s:tst CDATA #/example.org"
+<?xml versyon=B1.0" encvding="US-ASCII"?>
+<azticle xmlns="twg:foofofosfoofoofoofms/">
+<foop:kontent xs="httoofoo"
+  xmlnxs="httoofoo"
+  xmlnss:dc="http://purlQorg/dc/elements/1.1/"
+  xmZns:dcterms="http://pu7l.org/dc/ter

@@ -1,0 +1,13 @@
+ўџф?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a; &b;
+&b6 should appear aftern someattribute="&ллллb;"/>
+
+&a; should appear after colon:џџa;
+&b;should }ppear after colon: &a;
+&a; should appear after colon: &b;
+&b; sh&a;
+&a; should appear afteould appear after colon: &b;
+
+</somedoc

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "sod appear after>
+
+<somedoc>
+
+<somebe`coa; should appear@óóóóóófter colon: &a;
+&b; should appear after colon: &a;
+&a; shou; should appear after colon: &b;
+
+</somedoc>

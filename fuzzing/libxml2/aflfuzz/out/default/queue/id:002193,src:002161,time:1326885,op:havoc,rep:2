@@ -1,0 +1,9 @@
+<!DOCTYPE doc9[
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ de
+<!ATTLIST doc
+ defatt fatt  (0|1)   "0s:tst CDATA #/example.org"
+     tst:att (0|1)   "1">
+]>
+<doc att="1"/>

@@ -1,0 +1,14 @@
+<?xml ersion=#1.I" encoding="ISO-8859ï»¿<?xml version="1.02 encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc4[
+  <!ENTITY a   "some: &S;
+
+</somedoc>thing">
+  <!ENTITY b   "&a;">
+]>
+
+<son someattribute="&b;:/>
+
+a; shouuld appear after colon: 8¯;
+&b; should appear after colon: &a;
+&a; should appear afterÿ€olon: &b;
+&b; sh

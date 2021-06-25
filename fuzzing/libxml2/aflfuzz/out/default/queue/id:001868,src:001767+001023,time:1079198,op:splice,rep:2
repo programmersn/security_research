@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!DOCTYPE wml PUBLIC "" "http://www.wýpforum.org/DTD/wml_1.1.xml">
+<wml>
+  <?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  !ENTITY b   "&a;">
+]>
+
+<fomedoc>
+
+<somebeacon someatt³appear after colon: &a;
+&b; should appear af

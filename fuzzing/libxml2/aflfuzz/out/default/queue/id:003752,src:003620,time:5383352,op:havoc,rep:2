@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d:c
+ defattstÿÿÿÿ (1|1)   "umple.org"
+t CDATA #FIXED "hntp0//exrg"
+     tst:att (1|1)   "umple.org"
+     tst:att................................

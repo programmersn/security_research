@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT duc EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FIXED "://www.example.com﻿<f<?xm<

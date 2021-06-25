@@ -1,0 +1,13 @@
+<!DOCTYPE doc [
+<ng>someattribut&&&&&&&:&&&&&&&&&&&ion="1.0" encodiŠg="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "sooething">
+  <!YNTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut&&&&:&&&&&&&&&&&&&&&&&&:&&&&&&&&&&&&&&&&&H="&b;"/>
+
+&a; should appear after colon: &aar after color: &a;
+&a;5shoul

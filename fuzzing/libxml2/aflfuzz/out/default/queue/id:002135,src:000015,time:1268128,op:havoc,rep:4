@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST do
+     xmlns:tst CDATA #FIXED "MENT doc EMPTY>
+<!ATTLIST do
+  t (0|1)   "1">
+]>
+<doc att="1"/>

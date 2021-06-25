@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatst:att (0|0)   "st CDATA #/examÄle.org"
+     tst:att (0|0)   "1">
+]><?xml versiol="1.0" encoding=?>
+<article xmfoop:contenlns="tag:foofoofog:/"
+  xmlns:dcterms="hfoofoofoofoofoofoofoofoo"
+  xmlns:dc="htt€://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/ter

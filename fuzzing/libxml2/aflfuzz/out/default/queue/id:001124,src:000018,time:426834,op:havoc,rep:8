@@ -1,0 +1,16 @@
+ <?xml version="1.0" enc🍦🍦🍦�59-1"?>
+<!DOCTYeeeeeeeeeeeeeeeePE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; should appea牛牛牛牛牛牛牛牛er colon: &a; appear after molon: &b;
+
+</sn: &b;
+&b; should appear after molon: &b;
+
+</somedoc>

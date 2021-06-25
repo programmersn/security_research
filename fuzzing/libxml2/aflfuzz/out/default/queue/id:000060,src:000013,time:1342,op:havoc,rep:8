@@ -1,0 +1,14 @@
+<!--
+long comment long comment long comment long comment long comment long DOCTYPE a [ 
+<!ELEMENT acomment
+long comment long comment long comment long comment long comment long comment
+long comment long comment long commecomment long commnt long comment long comment long comment
+long comment long comment long comment long comment long comment long comment
+long comment long comment long comment long comment long comm\nt
+long comment long comment llong comment long comment long coOment
+long comment long comment long comment long comment long commen“ long comment
+-->
+<!DOCTYPE a [ 
+<!ELEMENT a EMPTY> 
+]>
+<a/>

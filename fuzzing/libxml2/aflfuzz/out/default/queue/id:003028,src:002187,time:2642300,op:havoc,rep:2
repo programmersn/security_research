@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT poc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0s:_st :_st CD/example.org"
+     tst:att (0|1)   "1 (0|1)   "1">
+]>
+<doc

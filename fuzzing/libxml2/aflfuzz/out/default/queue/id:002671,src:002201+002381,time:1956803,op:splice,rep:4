@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatst:att (0|0)   "st CDATA #/examp                              1">
+]><?xml versiol="1.0" encoding=?>
+<article hmfoop:contenlns="tag:foofoofog:foofoofoofoofoofoofoofoo"
+  xmlns:dc="htt€://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="htttst:att (org/dc/ter

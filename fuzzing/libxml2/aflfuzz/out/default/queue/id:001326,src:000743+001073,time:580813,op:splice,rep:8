@@ -1,0 +1,15 @@
+<ng>---/59-1"?>
+<!- ••••n859-1"?>
+<!-- test of ‹on asM*codiŠg="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]'
+
+<somedoc>
+
+<somebeaconeeeeeeeeeeee someattribut&&&&&&&&&&&&&&&&&&&&&&&&e="&b;"/>
+
+&a; should appear after coJon: &a;
+&b; should appear after colon: &a;
+&a; should appEar after c

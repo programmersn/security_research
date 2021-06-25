@@ -1,0 +1,15 @@
+<!--
+long comment long comment long comment long comment long comment long comment
+long comment long comment long comment long comment long comment long commeï»¿<foo/>nt
+long comment long comment long comment long comment long comment long comment
+long comment long comment long comment long comment long comment long comment
+long comment long comment long comment long comment long comment long comment
+long comment long commecomment long comment
+-->
+ÿnt long comment long comment long comment long comment
+long comment long comment long comment long comment long comment long comment
+-->
+<!DOCTYPE a [ 
+<!ELEMENT a EMPTY> 
+]>
+<a/>

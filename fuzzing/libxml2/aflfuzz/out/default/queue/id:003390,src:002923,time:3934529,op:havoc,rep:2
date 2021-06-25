@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d:c
+ defatt  (0|1)   "0"
+
+<!ELEMENT doc EMPTY>
+<!ATTLIST p://exrg"
+     tst:a·······tt (1|1)   "umple.org"
+     tst:att (1|1)   "1">
+]>
+<doc att="1"/>

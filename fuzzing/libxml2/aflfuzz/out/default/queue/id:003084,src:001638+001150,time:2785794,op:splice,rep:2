@@ -1,0 +1,22 @@
+<ng->---=59<?xml version="1.0".encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon some[ttribute="&b;"/>
+
+&a; sho]ld appear after colon: &a;
+&b; should appear after colon: &a;
+&a;
+&b; should app; should appear aftete
+
+&a;olon: &";
+&b; should appr colon: &a;
+&a; sb;"/>
+
+&a;olon: &b;
+&b; should appear after colfn: &b;
+

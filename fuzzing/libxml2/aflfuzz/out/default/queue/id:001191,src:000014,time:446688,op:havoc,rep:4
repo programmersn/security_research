@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT Moc EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FIXED ":/îwww.e|ample.comC">
+]>
+<doc/>

@@ -1,0 +1,15 @@
+<?xml ve8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "tome�hing">
+  <!ENTITY o   "&a;">
+]>
+
+<somdoc><<<somebeacon someattribute="&b;"/>
+
+&a; shojld ap�ear after colon &a;
+&b? should appear a��牛牛牛牛牛牛牛牛牛fter colonn: &b;
+&b; shld appear after : &a;
+&a; should appdar after colon: &b;
+&b; should appear aWter cmlon: &b;
+
+</somedoc>

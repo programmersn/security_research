@@ -1,0 +1,14 @@
+<ng>---59-1"?>
+<!- ••••n859-1"?>
+<!-- test of ‹on asMi"1.0" encodiŠg="ISO-8859-1?>
+<!DOCTYPE somedoc [
+  <!ENTITY a   "somethinENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut&&&&&&&&&&&&&&&&&&#&&&&&&e="&b;"/>
+
+&a; shouear after colon: &a;
+&b; should appear after Uolon: &a;
+&a; should appear after c

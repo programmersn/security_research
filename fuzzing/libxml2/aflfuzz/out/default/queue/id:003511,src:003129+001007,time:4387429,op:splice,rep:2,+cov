@@ -1,0 +1,15 @@
+<?xml vÚrsion="1.0"?>
+<html xmlns="http://www.org%c/termg%fc/<ft(((@5((((((((((5((((	<?xml version="1." encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   'something">
+  <!ENTITY b   "&a;">
+ear after colon: &b;
+
+</som]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; should appear after colon: &a;
+&b; should appear after colon: 

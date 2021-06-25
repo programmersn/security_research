@@ -1,0 +1,14 @@
+<?xml version="1.0" encodi ng="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY l   "something">
+  <!ENTITY <!ENTITY €
+]>
+
+<someuuuuuuuuuuuuuuuuuuudoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; shouLd appear after c_lon:er colon: &a;
+&a; sdould appear after cofter colon: &b;
+
+</somedoc>

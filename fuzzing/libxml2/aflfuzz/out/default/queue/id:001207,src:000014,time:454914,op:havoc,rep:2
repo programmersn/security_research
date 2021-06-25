@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc<!ATTLIST doc
+     xmlns CDATA #.example.Aom/">
+]>
+<doc/>

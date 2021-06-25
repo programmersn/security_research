@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doCCLCCCCCCCCCCCCCCCCCCCCCCCc
+ defatt  (0|1)   ":s:tst CDATA #/examplH.orf"
+ TY>
+<!ATTLIST doc
+ defatt  (0|1/>

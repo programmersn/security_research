@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+lns:tst CDATA #FIXED "Gttp://example.org"
+     tst:aIST doc
+lns:tst CDATA #FIXED 1"/>

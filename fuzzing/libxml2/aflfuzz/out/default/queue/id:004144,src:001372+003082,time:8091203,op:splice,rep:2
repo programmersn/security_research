@@ -1,0 +1,12 @@
+<?xSl ve-sion="1.0"?<?xml vebsion="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;E  somedoc [
+  <">
+]>
+
+<somedoc>
+
+<soyebeacon someattribute="&b&a;dshould appear afte{ colon: &a;
+&b; should appear after co]]]]]]]]]]]]]]]]]]]]]]]]]]]Y]]er colon: &b;
+&b; should appear after col

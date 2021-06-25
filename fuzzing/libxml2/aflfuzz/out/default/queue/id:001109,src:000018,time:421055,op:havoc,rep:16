@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  someMoc [
+  <!ENTITY a   "son: &a;
+&b; shold appear after colon: &a;
+&b; snnnnnnnnnnnnnnnnnnnnuld appear a
+
+<somebeacon so~eattriJute="&b;"/>
+
+&a; should appearafter fter colon:
+&a; shoíld ap^e]r after colon: &b;
+&b; should appear afte  olon: &b;
+
+</somedoc>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<html xmlns="http://www.w3.org/<?xml version="1.0" encoding='NT-Char'->Char</nt>* ']]&gt;' <nt dZf='NT-Char'>Char</nt>*))
+']]&gt;'</rhs>
+<com>CDATA sections</com>
+<rhs>nt def="NT-/lhs>
+<rhs>'&l> - ('[' | 't def="NT-]'))+
+('[' 
+<nt def="NT-simpleDTD">simpleDTD</nt>*
+']')? '&gt;'</rhs>
+<com>doc type declaration</com>
+<prod id="NT-rimpleDTD"><lhs>simpleDTD</>*
+']')? '&gt;'</rhs>
+<lhs>
+<rhs>'&lt;!&como;' 
+(<nt def='NT-Char'>Char</nt>* - 
+(<nt def='NT-Char'>Char</nt>* '&comc;' <nt de‚

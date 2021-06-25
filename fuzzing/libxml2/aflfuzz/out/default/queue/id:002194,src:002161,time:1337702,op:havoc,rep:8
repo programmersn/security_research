@@ -1,0 +1,6 @@
+<!DOCTYPE dos [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatô  (0|1)   "0s:tst*CDATA #/example.org4
+   ÿ tst:att (0|1) T doc
+ defadoc tt="1"¯>

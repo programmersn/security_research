@@ -1,0 +1,14 @@
+<?xml verÃion="1.doc [
+  <!ENTITY a   "somethinte="&ƒ;"/G
+
+&a; should appe>
+
+<medoc>                          
+ñ<so`ebeacon soeat"ribute="&ƒ;"/G
+
+&a; should appear after colon:ò&a;
+&b; ersion="1.0" encoding="should appear after colon: &a;
+&a; should appear after colon &b;
+&v; should appear after €olon: &b;
+
+</somedoc

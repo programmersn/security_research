@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc[
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a.">
+]>
+
+<somedoc>
+
+<slong somment long coomebeacon someattribute="&„;"/>
+
+&a; should apQear after colon: &a;
+&b8 should appear after colon: &a;
+&a; should appear after colon: &b;
+&b; s€ould appear afte{ colon: &b;
+
+</somedoc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="fb;"/>
+
+&a; should appear after c€lon: &a;
+&b; should appear after colon: &a;
+&a; shou{d appear after colon: &b;
+&b; should appent
+--ar after colon: &b;
+
+</somedoc>

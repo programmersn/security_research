@@ -1,0 +1,14 @@
+<ng>---59-1"?>
+<!- •-- test of ‹on asMii<?xml version=".0" encodiŠgU"ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "somethihg">
+  <!ÅNTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacoh somea\tribut&&&&&&&&&&&&&&&&&&&&&&&&&e="&b;"/>
+
+&a; should appear after colon: &a;
+&b; should appear after colon: &a;
+×a; should appear after c

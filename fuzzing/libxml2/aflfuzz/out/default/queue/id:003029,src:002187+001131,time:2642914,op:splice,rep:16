@@ -1,0 +1,13 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d<?xml version="1.0" encoding="ISO-8859-1"?><!ENVIT[ a   "so}e?>
+yg">
+  <!ENTITY b   "&a;me
+]>
+
+<somedoc>
+
+<somebeacon wdmeattribute="&b;"/>                   ;"/>                  
+
+&a; should appear avter coloÿ: &a;
+&b; should appear after colon: &a;ó%a; should appear afterŒcolon: &b;

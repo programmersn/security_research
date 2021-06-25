@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d   xmlns:tst CDATA #FIXED "http://exrg"
+     †st:aat (1|1)   "umple.org"
+     tst="1"/>

@@ -1,0 +1,17 @@
+<?xml SO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;;
+&b; should appeaE  somedoc [
+  <">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; should appear after colon: &a;
+&b; should appear after cok]]]]]]]]]]]]]]]]]]]]]]]]]]]]]er colon: &b;
+&b; should appear after colrn: &b;
+
+</somedoc>o

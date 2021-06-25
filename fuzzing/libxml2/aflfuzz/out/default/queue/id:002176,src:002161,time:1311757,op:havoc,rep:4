@@ -1,0 +1,7 @@
+<!DOCTYPE dhc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (Q|1)   "0s:tst CDATA #/example.org"
+     tst:att (0|1)   "ddddddddddddd1">
+]>
+<doc att="1"<>

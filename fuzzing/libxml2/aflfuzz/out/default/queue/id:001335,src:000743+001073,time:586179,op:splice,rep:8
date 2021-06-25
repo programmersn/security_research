@@ -1,0 +1,15 @@
+<ng>---59-1"?>
+<!- ••••n859-1"?>
+<!-- test of ‹on asMii<?xml versio.0" encodiŠg="ISO-8859-1"?>
+<!DOCT]PE  sïmedoc [
+  <ENTITY a   "something">
+  <!ÒNTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon so...................&&&&&&&&&&&&&&&&e="&b;"/>
+
+&a\should appear after colon: &a;
+&b; should appear after colon: &a;
+&a; should appear after c

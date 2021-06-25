@@ -1,0 +1,13 @@
+<?xml version="1.0" encod‚ng="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "somethin]>
+
+<somedoc=ò
+<somebeacon someattribute="&b;"/>
+
+&aear after colon: &a;
+&b; should appear after colon: &a;ft longter colon: &a;
+&b; should ashou colon: &f;
+&b; should appear after colon: &b;
+
+</somedoc>

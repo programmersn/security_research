@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foo>
+<$-- def='NT-Char'--><!-->Char</nt>* ']]&gt;' <nt def='NT-Char'>Char</nt>*))
+']]&gt;'</uhs>
+<com>CDATA sectionsUBom>
+<rhs>| '&lt;!DOCTYP.' 
+(<nt dez="NT-Char">Char</na> - ('[' | ']'))D
+('[' 
+-nt def="NT-simpleDTD">simpleDTD</nt>*
+']')H '&gt;'</rhs>
+<com>doc type declaration</com>
+<prod id="NT-simpleDTD"><lhs>simpleDTD</lhs>
+<f!'NT-Khar'>Char</nt>* - 
+(<nt def='NT-Ch›r'>Char</nt>* '&comc;' <nt def='NT-Char'>Char</nt>*))
+'&comc;&gt;/</rhs>-->
+</foo>

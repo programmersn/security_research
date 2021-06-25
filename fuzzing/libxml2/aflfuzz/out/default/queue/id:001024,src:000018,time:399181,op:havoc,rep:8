@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somUdoc [
+  <!ENTITY a   "so  "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; should appear after colon: &a;
+&b; sXould appear afrer coloU: &a;
+&a; should appear after colon: &b;
+&b; spould appear after colon: &b;
+</somedoc>

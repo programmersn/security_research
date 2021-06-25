@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0s:tst CDATAcomment long comment long comment long comment long comment long comment
+long comment long comment long comment long comment long comment long comment
+long comment long comment long comment lo	<!-- 
+	See un comment long comment
+long comment long comment long comment long comment long comment long comment
+long comment long comment long co}ment long comment long comment long comment
+long comment long comment long co-ment long comment long comment long comment
+long comment long comment long c
