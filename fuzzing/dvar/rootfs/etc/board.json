@@ -1,0 +1,12 @@
+{
+	"model": {
+		"id": "realview-eb-mpcore",
+		"name": "ARM Ltd. Realview"
+	},
+	"network": {
+		"lan": {
+			"ifname": "eth0",
+			"protocol": "dhcp"
+		}
+	}
+}

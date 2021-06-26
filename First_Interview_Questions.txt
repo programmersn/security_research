@@ -23,6 +23,7 @@ Fuzzing
     - Investigate deeply about Snapshot Fuzzing, how it exactly works, how it relates to other fuzzing strategies.
     - How EXACTLY AFL and AFL++ work ? Investigate coverage-guided fuzzing strategy they implement, and genetic algorithms they use in order to optimize by eliminating inputs that are likely to produce outputs already obtained.
     - How to exactly narrow down on the actual vulnerability that caused a crash with one of the fuzzing inputs ?
+    - Build fuzzing harnesses
     - Investigate also about race conditions vulnerabilities (see TOCTTOU attacks)
 
 Kernel Module Hacking
@@ -34,4 +35,8 @@ Rust Programming
 -----------------
     - Learn the basics
     - How much more secure its memory model is compared to C/C++
+
+Containerization/Orchestration
+-------------------------------
+    - Practical basics of Docker and Kubernetes
 

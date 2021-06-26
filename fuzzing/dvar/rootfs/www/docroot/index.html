@@ -1,0 +1,58 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<!-- (c) THE ARM EXPLOIT LABORATORY, Saumil Shah @therealsaumil -->
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<title>Lights Control</title>
+<script>
+var xhr, img;
+
+function init()
+{
+   xhr = createXHR();
+   img = document.getElementById("signal");
+}
+
+function lights(state)
+{
+   xhr.open("GET", "lights/" + state, true);
+   xhr.onreadystatechange = function() { handleresponse(xhr); };
+   xhr.send(null);
+   return;
+}
+
+function handleresponse(xhr)
+{
+   if(xhr.readyState == 4 && xhr.status == 200) {
+      if(xhr.responseText == "ON") {
+         img.src = "walk.jpg";
+      }
+      else {
+         img.src = "dont_walk.jpg";
+      }
+   }
+}
+
+function createXHR()
+{
+   try { return new XMLHttpRequest(); } catch(e) {}
+   try { return new ActiveXObject("Msxml2.XMLHTTP.6.0"); } catch (e) {}
+   try { return new ActiveXObject("Msxml2.XMLHTTP.3.0"); } catch (e) {}
+   try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
+   try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) {}
+
+   return null;
+}
+</script>
+</head>
+<body onload="init()" class="centrebody">
+<h1>Lights Control</h1>
+<div>
+<img id="signal" src="dont_walk.jpg">
+</div>
+<div>
+<button class="button-red" onclick="lights('off');">DONT<br>WALK</button> 
+<button class="button-green" onclick="lights('on');">&nbsp;<br>WALK</button> 
+</div>
+</body>
+</html>
