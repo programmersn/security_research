@@ -1,11 +1,0 @@
-<ng>---59-1"?>
-<!- ••••n859-
-
-<somebeacon someattrasMii<?xml version="1.0" encodiŠgV"ISO-8859-1"?>
-<!DOCTYPE  somedoc [
-  <!ENTITY a   "something">
- 9<!ENTITY b   "&--------------------------eacon someattribut&&&&&&&&&&&&&&&&&&&&&&&&&e="&b;"/>
-
-&a; should appear after colon: &a;
-&b; should appear after colon: &a;
-&a; should appear after c

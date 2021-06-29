@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY<!ATTLIST doc
- defatt  (0|1)  >
-<!ATTLIST doc
- defatt  (0|1)  ÿÿ0s:tst CDATA #/example.org"
-     tst:att (0|1)   "1"C
-]>
-<docnatt="1"/>

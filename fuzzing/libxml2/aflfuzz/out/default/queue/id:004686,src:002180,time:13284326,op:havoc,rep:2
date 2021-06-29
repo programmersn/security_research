@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0s:tst st:att (0|1)   41">
-]>
-<doc Utt="1t (0|1)   41">
-]>
-<doc att=""/>

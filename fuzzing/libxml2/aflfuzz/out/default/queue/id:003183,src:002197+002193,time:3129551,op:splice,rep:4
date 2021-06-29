@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT :oQ EMPTY>
-<!ATTLIST doc
- defatt  (0|1)   "0s:tst CD_!D!ATTLIOCTYPE doc9[
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc de
-<!ATTLIST doc
- defatt fatt  (0|

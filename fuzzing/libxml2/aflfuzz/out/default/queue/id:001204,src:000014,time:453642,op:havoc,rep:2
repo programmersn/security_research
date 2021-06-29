@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doZ EMPTY>
-<!ATTLIST doc
-    ns CDATA #FIXED "://www.example.com/">
-]>
-<doc/>

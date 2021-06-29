@@ -1,17 +1,0 @@
-<?xml version=#1.I" encoding="ISO-8859-1"?>
-<!DOCTYPE  somedoc [
-  <!ENTITY a   "som–•~ñKð@…•ƒ–„‰•n%L£…ething">
-  <!ENTITY b   "&a;g->---9-ocrta%>
-<d->-">
-]>
-
-<somedoc>
-
-<somebeacon someattribute=""b;"/>
-
-&a; should appear after colon: &a;
-&b; should appear aftera;
-&a; should appear after colon: &b;
-&b; should appear after colon: &b;
-
-</somedoc>

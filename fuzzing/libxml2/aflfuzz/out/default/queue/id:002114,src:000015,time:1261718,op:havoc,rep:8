@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- gefatt  (0|1)   "ÿ
-     xmlnDDDDDDc [
-<!ELEMENT doc EMPTY>
-<!ATDDDDDDD gefatt  (0|1)  DDDs:tst CDATA #FIXED "http://example.org!EUEMENT doc t (0|1)   "1">
-]>
-<doc att="1"6>

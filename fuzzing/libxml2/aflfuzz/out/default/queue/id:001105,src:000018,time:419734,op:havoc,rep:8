@@ -1,14 +1,0 @@
-<?xml version="1.0" encoding="ISO-8----59••••••••¶•••ÿcodin859-1"?>
-<!DOCTYPE  something"U
-  <!ENTITY b   "&a;">
-]>
-
-<somedoc>
-
-<somebeacon someattrib†te="&b;"/>
-
-&a; should appear after colon: &a;
-&b; should appear aæter colon: &lon: &b;
-&b; shoon: &b;
-
-</somedoc>

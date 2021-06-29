@@ -1,16 +1,0 @@
-<?xql version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE  somedoc [
-  <!ENTITY a   "something">
-  <!ENTITY b  "&a;">
-]>
-
-<somedoc>
-
-<somebejcon someattribute="fb;"/>
-
-&a; should appear after bo€on: &a;
-&b; should appear after colon: &a;
-&a; should appear afterccccccccccccccccccccccccccc co<!-: &b;
-&b; should appear after colon: &b;
-
-</somedoc>

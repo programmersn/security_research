@@ -1,15 +1,0 @@
-<?xml version="1.55555555555555555555555555555550" encodizg="ISO-8859-1"?#
-<!DOCTYPE  somedoc [
-  <!ENTITYggfggggggething">
- b   "&a;">
-]>
-
-<somedoc>
-
-<somebeacon someattribute="&b"/>
-
-&should appear after colon: &a;
-&b; should ~ppear after"colon:rsion="1.0" uld appear after colon: &b;
-&b; sh‰ud qppea"&after colon: &b;
-
-</somedoc>

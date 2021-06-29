@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ATTLIST doc
- defatt  (0|1)   "0"
-     xmlns:tst CDATA #$IXED "http://example.org"
-     tst:att (0|1)   "1">
-]>
-<doc att="1"/>

@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dojENT doc EMPTY>
-<+ATTLIST d:จจจจจจจจจจจwwww.example.com/">
-]E doc [
-<!ELEMENT doc EMPTY>
-<doc/>

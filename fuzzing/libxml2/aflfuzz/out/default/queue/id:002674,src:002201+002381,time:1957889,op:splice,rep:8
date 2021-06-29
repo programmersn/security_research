@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dos
- defztst:att (0|0)   "stample.org"
-     tst:att (0|0)   ".">
-]><?xml versiodiÿÿÿ€>
-<article xmfoop:contenlns="tag:foofoofog:foofoofoofoofoofoofoofoo"
-  xmlns:dc="hxt€://purl.org/dc/elements/1.1/"
-  xmlns:dcterms="http://purl.org/dc/ter

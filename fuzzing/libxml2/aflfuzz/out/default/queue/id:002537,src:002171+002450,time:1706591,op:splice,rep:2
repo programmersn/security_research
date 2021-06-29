@@ -1,9 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- Fefatt  (0|1)   "0s:tst CDATA #/example.org"
-     tdt:at_ (0|1)<?xml versižžžžžžžžžžžžžžžžžžžS-ASCII"?>
-<article xmlns="tavvvvvvvvvvvvvvvvvfoofoofoo"
-  xml.org/dc/terms/"ns:dc="htZp://vvvfoorg/dc/elements/1.1/"
-  xmlns:dcterms="http://purl.org/dc/terms/">
-<foop:con

@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST dom
- defatt  (0|1)   "0s:tst CDATA #/example.org"
-     tst:att (0|1)   ";">
-]>
-<doc att="1"/>

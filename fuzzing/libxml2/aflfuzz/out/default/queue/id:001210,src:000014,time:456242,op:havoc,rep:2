@@ -1,8 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
-  EMPTY>
-<!ATTLIST doc
-     xm   xmlns CDATA #FIXED ":/Ewww.example.com/">
-]>
-<doc/>

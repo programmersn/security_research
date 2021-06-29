@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE spec PUBLIC "-/trpec//" "dtve.dtd" [
-<!ENTITY iso6.doc.c PUBLIC "-/tsprpec//" "," "?>
-<!DOCTYPE spˆc PU0LIC "-/tspdtvdþÿä?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE  somedoc [
-  <!ENTITY a   "something">
-  <!ENTITY b   "&a; &b;
-&b6 should appear aftern someattribute="&ÛÛÛÛb;"/>
-

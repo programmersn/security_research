@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- This tests that two-byte UTF-8 chara properly when split across a buffer boundary ox length�XML_PARSER_BIG_BUFFER_SIZE (300 bytes). -->
-<doc>
-<p><![CDATA[�	long>
-<!--�  comment l<�ČČČČČČČČįČČČ<iteo tit�e="Icrontic.com -Warn\np: BreaJdancing;midget$with tourette&apos;s h�XML_PARSER_BIG_BUFFER_syndrome on-board&#60;&#13;&#160;&160;&#160;&#160;&#160/&#160;&#160;&#160;&#160;60;&#13;&#160;&#1

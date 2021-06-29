@@ -1,7 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
- defatst:att (0|0)   "st CDATA #/example.org"
-     tst:attMMMMMMMMMMMMMMMMMMMMMMMMMMMM (0|0)   "1">
-]>
-<doc att=1"/>

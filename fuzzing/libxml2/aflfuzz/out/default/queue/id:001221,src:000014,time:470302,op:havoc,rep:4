@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT <!ATT9IST docdoc EMPTY>
-<!ATT9IST doc
-9    xmlns CDPTA #FIXED "://www.example.com/">
-]>
-<doc/>

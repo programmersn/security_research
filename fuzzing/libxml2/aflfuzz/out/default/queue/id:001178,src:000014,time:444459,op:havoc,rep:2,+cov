@@ -1,6 +1,0 @@
-<!DOCTYPE doc [
-<!ELEMENT doc EMPTY>
-<!ATTLIST doc
-     xmyns CDAT "://www.example.com/">
-]>
-<doc/>
