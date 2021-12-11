@@ -1,9 +1,0 @@
-Package: base-files
-Version: 169-r49377
-Depends: libc, netifd, procd, jsonfilter, usign, fstools
-Source: package/base-files
-License: GPL-2.0
-Section: base
-Architecture: realview
-Installed-Size: 31411
-Description:  This package contains a base filesystem and system scripts for OpenWrt.
